@@ -1,0 +1,7 @@
+Sérgio F.,46723912,Python Básico
+Wener S.,3798312,Python Avançado
+Arlindo A,43812421,Banco De Dados
+Juliana A,4814213,Medicina
+Fernanda H,4812312,Medicina
+Joao M,3819421,Banco De Dados
+Vitor R.,14821321,Python Avançado
